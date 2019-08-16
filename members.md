@@ -51,3 +51,12 @@ Format is as given below:
    Whatsapp number: 08166317926<br/>
    Github: Will add soon
    
+-----------------------------------------------
+6. Name: Okafor Chukwuebuka Emmanuel <br />
+   Email: manuelokafor96@gmail.com <br />
+   Learning: Data Science <br />
+   Skills: - <br />
+   Facebook: @Okafor Manuel <br />
+   Github: @Nuel96 <br />
+   
+-----------------------------------------------
